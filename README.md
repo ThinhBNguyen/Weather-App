@@ -17,4 +17,4 @@ Technologies Used:
 
 
 
-![Main Page] (demo/weather-demo1.png)
+![Main Page](demo/weather-demo1.png)
