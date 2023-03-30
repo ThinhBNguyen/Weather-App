@@ -6,3 +6,6 @@ Web Application that makes calls Openweathermap Api and display weather informat
 -Thymeleaf
 -BootStrap
 -Openweathermap Api
+
+
+![Alt Text](demo/weather-demo1.png)
