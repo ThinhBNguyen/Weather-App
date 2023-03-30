@@ -16,5 +16,19 @@ Technologies Used:
 -Openweathermap Api
 
 
+Main Page
+![](demo/weather-demo1.png)
 
-![Main Page](demo/weather-demo1.png)
+Look up weather information by city
+
+--
+
+![](demo/weather-demo2.png)
+
+--
+
+![](demo/weather-demo3.png)
+
+--
+
+![](demo/weather-demo4.png)
