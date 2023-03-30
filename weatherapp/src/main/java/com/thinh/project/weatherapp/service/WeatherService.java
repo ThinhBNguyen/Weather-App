@@ -7,8 +7,8 @@ import org.springframework.web.client.RestTemplate;
 
 @Service
 public class WeatherService {
-    private static final String KEY = "ab2e7def10c6fb38948ea41e2df12ed6";
-    private static final String WEATHER_URL = "https://api.openweathermap.org/data/2.5/weather?q=%s&appid=%s&units=imperial";
+    private static final String KEY = "";
+    private static final String WEATHER_URL = "";
 
     public WeatherResponse getWeatherByCity(String city){
         RestTemplate restTemplate = new RestTemplate();
